@@ -1,4 +1,3 @@
-"""SWYNEX Task 1: Data Cleaning & Preparation (Titanic dataset)."""
 import pandas as pd
 
 raw = pd.read_csv("data/raw_data.csv")
